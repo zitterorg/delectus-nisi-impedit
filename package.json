@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/delectus-nisi-impedit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -36,7 +36,14 @@
     "@zitterorg/quibusdam-sit-qui": "^1.1.5",
     "@zitterorg/reiciendis-minima-excepturi": "^2.0.5",
     "@zitterorg/upgraded-fishstick": "^1.1.6",
-    "@zitterorg/vel-at-tenetur": "^1.0.6"
+    "@zitterorg/vel-at-tenetur": "^1.0.6",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "compiler",
